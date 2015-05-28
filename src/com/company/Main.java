@@ -11,6 +11,7 @@ public class Main {
 
         System.out.println("commit 3 copy");
 
+        System.out.println("commit 4 copy");
 
         System.out.println("commit 2 master");
     }
