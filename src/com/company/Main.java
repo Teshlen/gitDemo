@@ -6,6 +6,8 @@ public class Main {
 
         System.out.println("hello");
         System.out.println("this is another line");
+        System.out.println("and another line");
+
 
 
     }
