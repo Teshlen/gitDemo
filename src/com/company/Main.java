@@ -13,6 +13,9 @@ public class Main {
         System.out.println("and another line");
 
 
+        System.out.println("new line");
+
+
 
     }
 }
