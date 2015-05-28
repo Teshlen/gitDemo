@@ -4,22 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("hello");
-        System.out.println("this is another line");
-<<<<<<< HEAD
-        System.out.println("and another line");
-        System.out.println("and another line");
-        System.out.println("and another line");
-        System.out.println("and another line");
-        System.out.println("and another line");
-        System.out.println("test");
-=======
->>>>>>> copy
-
-
-        System.out.println("hello");
-
-        System.out.println("new line");
+        System.out.println("commit 1 master");
 
 
 
