@@ -11,6 +11,7 @@ public class Main {
         System.out.println("and another line");
         System.out.println("and another line");
         System.out.println("and another line");
+        System.out.println("test");
 
 
         System.out.println("new line");
