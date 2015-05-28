@@ -6,6 +6,8 @@ public class Main {
 
         System.out.println("commit 1 master");
 
+        System.out.println("commit 2 copy");
+
 
 
     }
